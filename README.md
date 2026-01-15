@@ -1,5 +1,14 @@
-### Hey there! 👋
+## Hi, I'm Tiago Poleze 👋
 
-- 🔭 I'm an iOS Engineer currently working on [Backbase](https://www.backbase.com), and I'd be happy to help you with anything related to Swift or iOS.
-- 💬 Feel free to ask me any questions you have, and I'll do my best to assist you. 
-- 📫 You can reach me anytime via [email](tiagopoleze@icloud.com). Looking forward to hearing from you!
+iOS Engineer at [Backbase](https://www.backbase.com), passionate about building great mobile experiences.
+
+### What I work with
+- Swift, SwiftUI, UIKit
+- MVVM, Clean Architecture
+- iOS development best practices
+
+### Let's connect
+I enjoy discussing iOS development, Swift best practices, and mobile architecture. Feel free to reach out!
+
+- 📫 [tiagopoleze@icloud.com](mailto:tiagopoleze@icloud.com)
+- 💼 [LinkedIn](https://linkedin.com/in/tiagopoleze)
